@@ -6,12 +6,12 @@ The modern solution to high-performance, non-Humanoid rig rendering.
 ## Introduction
 
 **[RigWrap](https://create.roblox.com/store/asset/71774011419996)** is a **free [Roblox Plugin](https://create.roblox.com/docs/reference/engine/classes/Plugin)** made by **[@oohypr](https://www.roblox.com/users/3608456945/profile)** on June 17th, 2025.  
-The plugin is currently at `Version 3.2` and has undergone continuous updates and maintenance, featuring major improvements in terms of **stability, efficiency, functionality and visual appearance**.
-It serves as an **efficient workflow tool**, designed to **offer instant solutions** to several well-known problems in the Roblox Development Community by introducing the **solutions listed below**.
+The plugin is currently available at `Version 3.2` and has undergone continuous updates and maintenance, featuring major improvements in terms of **stability, efficiency and functionality**.
+It serves as an **efficient workflow tool**, designed to solve several well-known problems in the Roblox Development Community by introducing the **solutions listed below**.
 
-The purpose of RigWrap is to **maximize individual freedom and flexibility** in everyday development by eliminating the dependency on Roblox's **[Humanoid Instances](https://create.roblox.com/docs/reference/engine/classes/Humanoid)**. RigWrap enables developers to rely entirely on **performance-friendly [AnimationControllers](https://create.roblox.com/docs/reference/engine/classes/AnimationController)** for NPCs and Rigs while providing fast, modern visual rendering.  
+The purpose of RigWrap is to **maximize individual freedom and flexibility** in everyday development by eliminating the dependency on Roblox's **[Humanoid Instances](https://create.roblox.com/docs/reference/engine/classes/Humanoid)**. RigWrap offers developers the opportunity to rely entirely on **performance-friendly [AnimationControllers](https://create.roblox.com/docs/reference/engine/classes/AnimationController)** for NPCs while providing fast, modern visual rendering.  
 
-Additionally, **RigWrap** not only provides a highly-efficient long-term solution to non-Humanoid **[Clothing](https://create.roblox.com/docs/avatar/classic-clothing)** rendering, but **significantly improves overall performance** through increased FPS, faster loading time, lower memory usage and lag **([View Benchmark](https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/5X/5/6/e/d/56ed956f38135437d68c766880688c6a604866eb.mp4))** as well as enhanced rendering quality.  
+Additionally, **RigWrap** not only provides a highly-efficient long-term solution to non-Humanoid **[Clothing](https://create.roblox.com/docs/avatar/classic-clothing)** rendering, but **significantly improves overall performance** through increased FPS, faster loading time and lower memory usage **([View Benchmark](https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/5X/5/6/e/d/56ed956f38135437d68c766880688c6a604866eb.mp4))** as well as enhanced rendering quality.  
 
 If you are developing or contributing to experiences that feature NPCs, you should incorporate RigWrap into your workflow to benefit from all those improvements. If you encounter any issues during development, seek immediate contact with me or RigWrap's community.
 
