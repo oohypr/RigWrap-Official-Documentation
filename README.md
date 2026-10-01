@@ -5,7 +5,7 @@ The modern solution to high-performance, non-Humanoid clothing rendering.
 
 ## Introduction
 
-**[RigWrap](https://create.roblox.com/store/asset/71774011419996)** is a **free [Roblox Plugin](https://create.roblox.com/docs/reference/engine/classes/Plugin)** made by **[@oohypr](https://www.roblox.com/users/3608456945/profile)** on June 17th, 2025.  
+**[RigWrap](https://devforum.roblox.com/t/3751017)** is a **free [Roblox Plugin](https://create.roblox.com/docs/reference/engine/classes/Plugin)** made by **[@oohypr](https://www.roblox.com/users/3608456945/profile)** on June 17th, 2025.  
 The plugin is currently available at `Version 3.3` and has undergone continuous updates and maintenance, featuring major improvements in terms of **stability, efficiency and functionality**.
 It serves as an **efficient workflow tool**, designed to solve several well-known problems in the Roblox Development Community by introducing the **solutions listed below**.
 
@@ -65,10 +65,7 @@ Optimization is a **major selling point** of RigWrap. Even if you are using Huma
 
 ## Important Links
 
-**Creator Store - Download RigWrap**  
-https://create.roblox.com/store/asset/71774011419996
-
-**Developer Forum**  
+**Developer Forum - Download RigWrap**  
 https://devforum.roblox.com/t/3751017
 
 # Appreciate RigWrap?
