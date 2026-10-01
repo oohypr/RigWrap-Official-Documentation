@@ -1,12 +1,12 @@
 # **RigWrap — Official Documentation**
 The modern solution to high-performance, non-Humanoid rig rendering.
 
-<img width="28%" src="Gallery/Icon_v3.3.png"> <img width="50%" src="RigWrap_3.3_Screenshot.png">
+<img width="28%" src="Gallery/Icon_v3.3.png"> <img width="50%" src="Thumbnail.png">
 
 ## Introduction
 
 **[RigWrap](https://create.roblox.com/store/asset/71774011419996)** is a **free [Roblox Plugin](https://create.roblox.com/docs/reference/engine/classes/Plugin)** made by **[@oohypr](https://www.roblox.com/users/3608456945/profile)** on June 17th, 2025.  
-The plugin is currently available at `Version 3.2` and has undergone continuous updates and maintenance, featuring major improvements in terms of **stability, efficiency and functionality**.
+The plugin is currently available at `Version 3.3` and has undergone continuous updates and maintenance, featuring major improvements in terms of **stability, efficiency and functionality**.
 It serves as an **efficient workflow tool**, designed to solve several well-known problems in the Roblox Development Community by introducing the **solutions listed below**.
 
 The purpose of RigWrap is to **maximize individual freedom and flexibility** in everyday development by eliminating the dependency on Roblox's **[Humanoid Instances](https://create.roblox.com/docs/reference/engine/classes/Humanoid)**. RigWrap offers developers the opportunity to rely entirely on **performance-friendly [AnimationControllers](https://create.roblox.com/docs/reference/engine/classes/AnimationController)** for NPCs while providing fast, modern visual rendering.  
