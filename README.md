@@ -1,7 +1,7 @@
 # **RigWrap — Official Documentation**
 The modern solution to high-performance, non-Humanoid rig rendering.
 
-<img width="28%" src="RigWrap_3.2_Icon.png"> <img width="50%" src="RigWrap_3.2_Screenshot.png">
+<img width="28%" src="Gallery/Icon_v3.3.png"> <img width="50%" src="RigWrap_3.3_Screenshot.png">
 
 ## Introduction
 
