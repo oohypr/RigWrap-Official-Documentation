@@ -47,12 +47,12 @@ The issue does not come from RigWrap — it comes from Roblox directly.*
 Also, `v3.3 BETA` eliminated all pixel bleeding in textures and introduced a fully rotatable preview rig.
 No more black spots on clothing, blurry edges or manual SurfaceAppearance insertion.*
 
-##2: High-Resolution Rendering
+## 2: High-Resolution Rendering
 [Roblox Clothing Template](https://create.roblox.com/docs/avatar/classic-clothing) dimensions are exactly **585x559px**.  
 RigWrap can render any Decal or Image on Rigs, resulting in an increased Resolution of up to **1024x1024px**.
 With workarounds, it is theoretically possible to achieve a clothing resolution of up to **4096×4096**.
 
-# 3: Increased Overall Performance
+## 3: Increased Overall Performance
 RigWrap features the following performance improvements:  
 - **Increased FPS**
 - **Lower Memory Usage**
@@ -63,7 +63,7 @@ You can watch the outdated [`v2.x` **Benchmark Video**](https://devforum-uploads
 Although I have not made a new benchmark yet, RigWrap `v3.x` offers significantly more performance.
 Optimization is a **major selling point** of RigWrap. Even if you are using Humanoids, the performance increase will definitely be noticable.
 
-# Important Links
+## Important Links
 
 **Creator Store - Download RigWrap**  
 https://create.roblox.com/store/asset/71774011419996
